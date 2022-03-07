@@ -1,0 +1,11 @@
+D:\cat32tw\Desktop\nightMarket\bin\Debug\nightMarket.exe.config
+D:\cat32tw\Desktop\nightMarket\bin\Debug\nightMarket.exe
+D:\cat32tw\Desktop\nightMarket\bin\Debug\nightMarket.pdb
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.csproj.AssemblyReference.cache
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.csproj.SuggestedBindingRedirects.cache
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.Form1.resources
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.Properties.Resources.resources
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.csproj.GenerateResource.cache
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.csproj.CoreCompileInputs.cache
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.exe
+D:\cat32tw\Desktop\nightMarket\obj\Debug\nightMarket.pdb
